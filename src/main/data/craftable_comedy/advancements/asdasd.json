@@ -22,5 +22,5 @@
       }
     }
   },
-  "parent": "craftable_comedy:taking_inventory"
+  "parent": "minecraft:adventure/root"
 }

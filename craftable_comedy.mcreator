@@ -1,18 +1,6 @@
 {
   "mod_elements": [
     {
-      "name": "Something",
-      "type": "recipe",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "something",
-      "metadata": {
-        "files": [
-          "src/main/data/craftable_comedy/recipes/something.json"
-        ]
-      }
-    },
-    {
       "name": "TakingInventory",
       "type": "achievement",
       "sortid": 2,
@@ -100,6 +88,19 @@
       "metadata": {
         "files": [
           "src/main/data/craftable_comedy/advancements/awrfdf.json"
+        ]
+      }
+    },
+    {
+      "name": "BakeBread",
+      "type": "achievement",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bake_bread",
+      "metadata": {
+        "files": [
+          "src/main/data/craftable_comedy/advancements/bake_bread.json"
         ]
       }
     }

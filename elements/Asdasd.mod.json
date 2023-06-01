@@ -18,7 +18,7 @@
     "rewardXP": 0,
     "achievementType": "task",
     "parent": {
-      "value": "CUSTOM:TakingInventory"
+      "value": "adventure/root"
     },
     "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"block_placed\" x=\"94\" y=\"153\"><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.OBSERVER</field></block></value><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
   }
