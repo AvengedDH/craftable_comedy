@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Blocks.SKULL#0"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.COAL"
+      },
+      {
+        "value": "Items.COAL"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.SKULL#1"
+    },
+    "name": "something",
+    "namespace": "mod"
+  }
+}

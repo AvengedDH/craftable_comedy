@@ -1,0 +1,134 @@
+{
+  "mod_elements": [
+    {
+      "name": "Something",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "something",
+      "metadata": {
+        "files": [
+          "src/main/data/craftable_comedy/recipes/something.json"
+        ]
+      }
+    },
+    {
+      "name": "TakingInventory",
+      "type": "achievement",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taking_inventory",
+      "metadata": {
+        "files": [
+          "src/main/data/craftable_comedy/advancements/taking_inventory.json"
+        ]
+      }
+    },
+    {
+      "name": "GettingWood",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "getting_wood",
+      "metadata": {
+        "files": [
+          "src/main/data/craftable_comedy/advancements/getting_wood.json"
+        ]
+      }
+    },
+    {
+      "name": "Benchmarking",
+      "type": "achievement",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "benchmarking",
+      "metadata": {
+        "files": [
+          "src/main/data/craftable_comedy/advancements/benchmarking.json"
+        ]
+      }
+    },
+    {
+      "name": "DiamondsToYou",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamonds_to_you",
+      "metadata": {
+        "files": [
+          "src/main/data/craftable_comedy/advancements/diamonds_to_you.json"
+        ]
+      }
+    },
+    {
+      "name": "TheSoundOfMusic",
+      "type": "achievement",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_sound_of_music",
+      "metadata": {
+        "files": [
+          "src/main/data/craftable_comedy/advancements/the_sound_of_music.json"
+        ]
+      }
+    },
+    {
+      "name": "DesperateTimes",
+      "type": "achievement",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "desperate_times",
+      "metadata": {
+        "files": [
+          "src/main/data/craftable_comedy/advancements/desperate_times.json"
+        ]
+      }
+    },
+    {
+      "name": "Asdasd",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "asdasd",
+      "metadata": {
+        "files": [
+          "src/main/data/craftable_comedy/advancements/asdasd.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "craftable_comedy",
+    "modName": "Craftable Comedy",
+    "version": "1.0.0",
+    "author": "rocem, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.19.x",
+    "modElementsPackage": "net.mcreator.craftablecomedy",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}
