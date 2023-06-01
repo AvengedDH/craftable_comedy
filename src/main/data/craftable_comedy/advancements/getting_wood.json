@@ -20,6 +20,7 @@
               "minecraft:oak_log",
               "minecraft:birch_log",
               "minecraft:spruce_log",
+              "minecraft:jungle_log",
             ],
             "count": {
               "min": 1,
