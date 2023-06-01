@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:observer"
+    },
+    "title": "I See Everything",
+    "description": "Place an Observer.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "asdasd": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:observer"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "minecraft:adventure/root"
+}
