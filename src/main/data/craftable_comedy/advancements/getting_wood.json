@@ -17,7 +17,9 @@
         "items": [
           {
             "items": [
-              "minecraft:oak_log"
+              "minecraft:oak_log",
+              "minecraft:birch_log",
+              "minecraft:spruce_log",
             ],
             "count": {
               "min": 1,
